@@ -20,22 +20,28 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp" />
-    <ClCompile Include="C:\Users\hyeok\Desktop\FunctionOverloading.cpp" />
-    <ClCompile Include="C:\Users\hyeok\Desktop\HelloWorld.cpp" />
-    <ClCompile Include="C:\Users\hyeok\Desktop\Q1-1.cpp" />
-    <ClCompile Include="C:\Users\hyeok\Desktop\SimpleAdder.cpp" />
-    <ClCompile Include="C:\Users\hyeok\Desktop\StringIO.cpp" />
+    <ClCompile Include="Constructor1.cpp" />
     <ClCompile Include="DataTypeBool.cpp" />
     <ClCompile Include="DefaultVallue1.cpp" />
     <ClCompile Include="DefaultVallue2.cpp" />
     <ClCompile Include="DefaultVallue3.cpp" />
+    <ClCompile Include="Encaps1.cpp" />
+    <ClCompile Include="Encaps2.cpp" />
+    <ClCompile Include="FunctionOverloading.cpp" />
+    <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="NameAlias.cpp" />
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp2.cpp" />
     <ClCompile Include="NameSp3.cpp" />
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Q1-1.cpp" />
     <ClCompile Include="Q1-2.cpp" />
     <ClCompile Include="Q2-1.cpp" />
+    <ClCompile Include="Q4-2.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="RectangleFault.cpp" />
+    <ClCompile Include="RectangleFaultFind.cpp" />
     <ClCompile Include="RefArrElem.cpp" />
     <ClCompile Include="Referen.cpp" />
     <ClCompile Include="RefPtr.cpp" />
@@ -43,9 +49,15 @@
     <ClCompile Include="RefReturnThree.cpp" />
     <ClCompile Include="RefReturnTwo.cpp" />
     <ClCompile Include="RefSwap.cpp" />
+    <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="TrueAndFalse.cpp" />
     <ClCompile Include="UsingDcl1.cpp" />
     <ClCompile Include="UsingDcl2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h" />
+    <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

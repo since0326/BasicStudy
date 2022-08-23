@@ -22,24 +22,15 @@
     <Filter Include="소스 파일\Day3">
       <UniqueIdentifier>{33be07be-7c1e-4250-95ef-29f352d3290b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day4">
+      <UniqueIdentifier>{a30f3d88-4307-4dcd-9301-dbc91ceb4c06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Day4Header">
+      <UniqueIdentifier>{f9078181-fc13-4dd2-a199-5142015d8b4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
-      <Filter>소스 파일\Day1</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\hyeok\Desktop\FunctionOverloading.cpp">
-      <Filter>소스 파일\Day1</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\hyeok\Desktop\HelloWorld.cpp">
-      <Filter>소스 파일\Day1</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\hyeok\Desktop\Q1-1.cpp">
-      <Filter>소스 파일\Day1</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\hyeok\Desktop\SimpleAdder.cpp">
-      <Filter>소스 파일\Day1</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\hyeok\Desktop\StringIO.cpp">
       <Filter>소스 파일\Day1</Filter>
     </ClCompile>
     <ClCompile Include="DefaultVallue2.cpp">
@@ -105,5 +96,52 @@
     <ClCompile Include="DataTypeBool.cpp">
       <Filter>소스 파일\Day3</Filter>
     </ClCompile>
+    <ClCompile Include="Q1-1.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="StringIO.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleAdder.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWorld.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOverloading.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor1.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q4-2.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Encaps2.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Encaps1.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleFaultFind.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleFault.cpp">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h">
+      <Filter>헤더 파일\Day4Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>헤더 파일\Day4Header</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

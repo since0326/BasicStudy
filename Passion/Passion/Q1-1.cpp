@@ -1,8 +1,9 @@
+/*
 #include <iostream>
 
 using namespace std;
 
-/*
+
 //1¹ø 
 int main(void){
 	int num;

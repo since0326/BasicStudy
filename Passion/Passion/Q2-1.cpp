@@ -1,8 +1,9 @@
+/*
 #include <iostream>
 
 using namespace std;
 
-/*
+
 //¹®Á¦ 1 
 int func1(int &num){
 	return num+1;
