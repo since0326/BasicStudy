@@ -25,6 +25,7 @@
     <ClCompile Include="DefaultVallue1.cpp" />
     <ClCompile Include="DefaultVallue2.cpp" />
     <ClCompile Include="DefaultVallue3.cpp" />
+    <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
@@ -34,16 +35,24 @@
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp2.cpp" />
     <ClCompile Include="NameSp3.cpp" />
+    <ClCompile Include="ObjArr.cpp" />
+    <ClCompile Include="ObjPtrArr.cpp" />
     <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Point1.cpp" />
+    <ClCompile Include="PrivateConstructor.cpp" />
     <ClCompile Include="Q1-1.cpp" />
     <ClCompile Include="Q1-2.cpp" />
     <ClCompile Include="Q2-1.cpp" />
     <ClCompile Include="Q4-2.cpp" />
+    <ClCompile Include="Q4-3.cpp" />
     <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="Rectangle1.cpp" />
+    <ClCompile Include="RectangleConstructor.cpp" />
     <ClCompile Include="RectangleFault.cpp" />
     <ClCompile Include="RectangleFaultFind.cpp" />
     <ClCompile Include="RefArrElem.cpp" />
     <ClCompile Include="Referen.cpp" />
+    <ClCompile Include="ReferenceMember.cpp" />
     <ClCompile Include="RefPtr.cpp" />
     <ClCompile Include="RefReturnOne.cpp" />
     <ClCompile Include="RefReturnThree.cpp" />
@@ -57,7 +66,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h" />
+    <ClInclude Include="Point1.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Rectangle1.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

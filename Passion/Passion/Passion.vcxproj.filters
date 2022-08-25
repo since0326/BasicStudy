@@ -28,6 +28,12 @@
     <Filter Include="헤더 파일\Day4Header">
       <UniqueIdentifier>{f9078181-fc13-4dd2-a199-5142015d8b4c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day5">
+      <UniqueIdentifier>{12abb97d-006b-484f-924e-ee3d95fc7889}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Day5Header">
+      <UniqueIdentifier>{7dffbd0e-0633-446c-b47b-72e594abd764}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -135,6 +141,33 @@
     <ClCompile Include="RectangleFault.cpp">
       <Filter>소스 파일\Day4</Filter>
     </ClCompile>
+    <ClCompile Include="ObjPtrArr.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjArr.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q4-3.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="Destructor.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="PrivateConstructor.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="ReferenceMember.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="Point1.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle1.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleConstructor.cpp">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
@@ -142,6 +175,12 @@
     </ClInclude>
     <ClInclude Include="Rectangle.h">
       <Filter>헤더 파일\Day4Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Point1.h">
+      <Filter>헤더 파일\Day5Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle1.h">
+      <Filter>헤더 파일\Day5Header</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
