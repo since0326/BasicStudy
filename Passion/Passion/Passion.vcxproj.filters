@@ -34,6 +34,12 @@
     <Filter Include="헤더 파일\Day5Header">
       <UniqueIdentifier>{7dffbd0e-0633-446c-b47b-72e594abd764}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day6">
+      <UniqueIdentifier>{19c7ea1b-0802-4dc6-a94c-8f0972fe58fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\OOP">
+      <UniqueIdentifier>{bc9ca720-feaf-440d-bacf-95d158207ee3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -167,6 +173,33 @@
     </ClCompile>
     <ClCompile Include="RectangleConstructor.cpp">
       <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFriendFunction.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFriendClass.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstOverloading.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstObject.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="PassObjCopycon.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="Q5-1.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="ShallowCopyError.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassInit.cpp">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="UsefulThisPtr.cpp">
+      <Filter>소스 파일\Day6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
