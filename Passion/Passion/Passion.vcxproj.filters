@@ -246,6 +246,9 @@
     <ClCompile Include="StaticMember.cpp">
       <Filter>소스 파일\Day7</Filter>
     </ClCompile>
+    <ClCompile Include="Cpp_OOP_ver4.cpp">
+      <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
