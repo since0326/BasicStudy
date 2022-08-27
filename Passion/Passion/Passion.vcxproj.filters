@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\OOP">
       <UniqueIdentifier>{bc9ca720-feaf-440d-bacf-95d158207ee3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day7">
+      <UniqueIdentifier>{3e7b3bb5-4311-458f-b68e-8429c1564553}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -209,6 +212,39 @@
     </ClCompile>
     <ClCompile Include="Cpp_OOP_ver1.cpp">
       <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="ProtectedHeri.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-1.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="DestModel.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="DerivDestOrder.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="DerivCreOrder.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="UnivStudntInheri.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="Mutable.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstStaticMember.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="PublicStaticMember.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="CComStatic.cpp">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticMember.cpp">
+      <Filter>소스 파일\Day7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
