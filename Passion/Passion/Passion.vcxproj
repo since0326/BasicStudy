@@ -38,11 +38,15 @@
     <ClCompile Include="DerivDestOrder.cpp" />
     <ClCompile Include="DestModel.cpp" />
     <ClCompile Include="Destructor.cpp" />
+    <ClCompile Include="EmployeeManager2.cpp" />
+    <ClCompile Include="EmployeeManager3.cpp" />
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
+    <ClCompile Include="HASInheritance.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
+    <ClCompile Include="ISAInheritance.cpp" />
     <ClCompile Include="Mutable.cpp" />
     <ClCompile Include="MyFriendClass.cpp" />
     <ClCompile Include="MyFriendFunction.cpp" />
@@ -51,6 +55,7 @@
     <ClCompile Include="NameSp2.cpp" />
     <ClCompile Include="NameSp3.cpp" />
     <ClCompile Include="ObjArr.cpp" />
+    <ClCompile Include="ObjectPointer.cpp" />
     <ClCompile Include="ObjPtrArr.cpp" />
     <ClCompile Include="PassObjCopycon.cpp" />
     <ClCompile Include="Point.cpp" />
@@ -65,6 +70,7 @@
     <ClCompile Include="Q4-3.cpp" />
     <ClCompile Include="Q5-1.cpp" />
     <ClCompile Include="Q7-1.cpp" />
+    <ClCompile Include="Q7-2.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="Rectangle1.cpp" />
     <ClCompile Include="RectangleConstructor.cpp" />

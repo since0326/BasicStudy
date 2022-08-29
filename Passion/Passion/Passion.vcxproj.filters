@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\Day7">
       <UniqueIdentifier>{3e7b3bb5-4311-458f-b68e-8429c1564553}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day8">
+      <UniqueIdentifier>{357cb3c0-ac9a-445a-9ba5-33d24b1a1ed5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -248,6 +251,24 @@
     </ClCompile>
     <ClCompile Include="Cpp_OOP_ver4.cpp">
       <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeManager3.cpp">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeManager2.cpp">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectPointer.cpp">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="Q7-2.cpp">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="HASInheritance.cpp">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="ISAInheritance.cpp">
+      <Filter>소스 파일\Day8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
