@@ -270,6 +270,9 @@
     <ClCompile Include="ISAInheritance.cpp">
       <Filter>소스 파일\Day8</Filter>
     </ClCompile>
+    <ClCompile Include="Cpp_OOP_ver5.cpp">
+      <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">

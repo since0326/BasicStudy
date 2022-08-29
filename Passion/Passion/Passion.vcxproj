@@ -30,6 +30,7 @@
     <ClCompile Include="Cpp_OOP_ver2.cpp" />
     <ClCompile Include="Cpp_OOP_ver3.cpp" />
     <ClCompile Include="Cpp_OOP_ver4.cpp" />
+    <ClCompile Include="Cpp_OOP_ver5.cpp" />
     <ClCompile Include="DataTypeBool.cpp" />
     <ClCompile Include="DefaultVallue1.cpp" />
     <ClCompile Include="DefaultVallue2.cpp" />
