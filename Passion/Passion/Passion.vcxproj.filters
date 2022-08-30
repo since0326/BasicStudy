@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\Day8">
       <UniqueIdentifier>{357cb3c0-ac9a-445a-9ba5-33d24b1a1ed5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day9">
+      <UniqueIdentifier>{b3a37bc4-a436-407b-9f66-be820983e90c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -272,6 +275,24 @@
     </ClCompile>
     <ClCompile Include="Cpp_OOP_ver5.cpp">
       <Filter>소스 파일\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="ReferenceAttribute.cpp">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualDestructor.cpp">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8-2.cpp">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="EmployeeManager4.cpp">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionVirtualOverride.cpp">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOverride.cpp">
+      <Filter>소스 파일\Day9</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

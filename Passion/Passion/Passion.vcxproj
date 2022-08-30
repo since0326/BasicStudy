@@ -41,9 +41,12 @@
     <ClCompile Include="Destructor.cpp" />
     <ClCompile Include="EmployeeManager2.cpp" />
     <ClCompile Include="EmployeeManager3.cpp" />
+    <ClCompile Include="EmployeeManager4.cpp" />
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
+    <ClCompile Include="FunctionOverride.cpp" />
+    <ClCompile Include="FunctionVirtualOverride.cpp" />
     <ClCompile Include="HASInheritance.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
@@ -72,6 +75,7 @@
     <ClCompile Include="Q5-1.cpp" />
     <ClCompile Include="Q7-1.cpp" />
     <ClCompile Include="Q7-2.cpp" />
+    <ClCompile Include="Q8-2.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="Rectangle1.cpp" />
     <ClCompile Include="RectangleConstructor.cpp" />
@@ -79,6 +83,7 @@
     <ClCompile Include="RectangleFaultFind.cpp" />
     <ClCompile Include="RefArrElem.cpp" />
     <ClCompile Include="Referen.cpp" />
+    <ClCompile Include="ReferenceAttribute.cpp" />
     <ClCompile Include="ReferenceMember.cpp" />
     <ClCompile Include="RefPtr.cpp" />
     <ClCompile Include="RefReturnOne.cpp" />
@@ -94,6 +99,7 @@
     <ClCompile Include="UsefulThisPtr.cpp" />
     <ClCompile Include="UsingDcl1.cpp" />
     <ClCompile Include="UsingDcl2.cpp" />
+    <ClCompile Include="VirtualDestructor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h" />
