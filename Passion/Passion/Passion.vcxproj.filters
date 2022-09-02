@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\Day9">
       <UniqueIdentifier>{b3a37bc4-a436-407b-9f66-be820983e90c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day10">
+      <UniqueIdentifier>{b2cb65dc-ae0d-45c5-8a6b-63800670edcb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -293,6 +296,42 @@
     </ClCompile>
     <ClCompile Include="FunctionOverride.cpp">
       <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10-1.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="GFunctionOverloading.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstOperationOverloading.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\PointConsoleOutput.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\Q10-3.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\OneOpndOverloading.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\Q10-2.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\PostOpndOverloading.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\PointMultipleOperation.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\CommuMultipleOperation.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\ConsoleOutput.cpp">
+      <Filter>소스 파일\Day10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\C+\IterateConsoleOutput.cpp">
+      <Filter>소스 파일\Day10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

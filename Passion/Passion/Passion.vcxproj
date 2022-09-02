@@ -19,6 +19,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\C+\CommuMultipleOperation.cpp" />
+    <ClCompile Include="..\..\..\C+\ConsoleOutput.cpp" />
+    <ClCompile Include="..\..\..\C+\IterateConsoleOutput.cpp" />
+    <ClCompile Include="..\..\..\C+\OneOpndOverloading.cpp" />
+    <ClCompile Include="..\..\..\C+\PointConsoleOutput.cpp" />
+    <ClCompile Include="..\..\..\C+\PointMultipleOperation.cpp" />
+    <ClCompile Include="..\..\..\C+\PostOpndOverloading.cpp" />
+    <ClCompile Include="..\..\..\C+\Q10-2.cpp" />
+    <ClCompile Include="..\..\..\C+\Q10-3.cpp" />
     <ClCompile Include="BetweenAdder.cpp" />
     <ClCompile Include="CComStatic.cpp" />
     <ClCompile Include="ClassInit.cpp" />
@@ -44,9 +53,11 @@
     <ClCompile Include="EmployeeManager4.cpp" />
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
+    <ClCompile Include="FirstOperationOverloading.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="FunctionOverride.cpp" />
     <ClCompile Include="FunctionVirtualOverride.cpp" />
+    <ClCompile Include="GFunctionOverloading.cpp" />
     <ClCompile Include="HASInheritance.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
@@ -69,6 +80,7 @@
     <ClCompile Include="PublicStaticMember.cpp" />
     <ClCompile Include="Q1-1.cpp" />
     <ClCompile Include="Q1-2.cpp" />
+    <ClCompile Include="Q10-1.cpp" />
     <ClCompile Include="Q2-1.cpp" />
     <ClCompile Include="Q4-2.cpp" />
     <ClCompile Include="Q4-3.cpp" />
