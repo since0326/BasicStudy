@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayClass.cpp" />
+    <ClCompile Include="AssignShallowCopyError.cpp" />
     <ClCompile Include="BetweenAdder.cpp" />
     <ClCompile Include="CComStatic.cpp" />
     <ClCompile Include="ClassInit.cpp" />
@@ -48,12 +50,15 @@
     <ClCompile Include="Encaps1.cpp" />
     <ClCompile Include="Encaps2.cpp" />
     <ClCompile Include="FirstOperationOverloading.cpp" />
+    <ClCompile Include="FirstOperationOverloading1.cpp" />
     <ClCompile Include="FunctionOverloading.cpp" />
     <ClCompile Include="FunctionOverride.cpp" />
     <ClCompile Include="FunctionVirtualOverride.cpp" />
     <ClCompile Include="GFunctionOverloading.cpp" />
     <ClCompile Include="HASInheritance.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="ImproveInit.cpp" />
+    <ClCompile Include="InheritAssignOperation.cpp" />
     <ClCompile Include="InlineFunc.cpp" />
     <ClCompile Include="ISAInheritance.cpp" />
     <ClCompile Include="IterateConsoleOutput.cpp" />
@@ -72,6 +77,7 @@
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Point1.cpp" />
     <ClCompile Include="PointConsoleOutput.cpp" />
+    <ClCompile Include="PointerOperatorOverloading.cpp" />
     <ClCompile Include="PointMultipleOperation.cpp" />
     <ClCompile Include="PostOpndOverloading.cpp" />
     <ClCompile Include="PrivateConstructor.cpp" />
@@ -82,6 +88,7 @@
     <ClCompile Include="Q10-1.cpp" />
     <ClCompile Include="Q10-2.cpp" />
     <ClCompile Include="Q10-3.cpp" />
+    <ClCompile Include="Q11-1.cpp" />
     <ClCompile Include="Q2-1.cpp" />
     <ClCompile Include="Q4-2.cpp" />
     <ClCompile Include="Q4-3.cpp" />
@@ -105,6 +112,10 @@
     <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="ShallowCopyError.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="StableConstArrayProb.cpp" />
+    <ClCompile Include="StableConstArraySolu.cpp" />
+    <ClCompile Include="StablePointObjArray.cpp" />
+    <ClCompile Include="StablePointPtrArray.cpp" />
     <ClCompile Include="StaticMember.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="TrueAndFalse.cpp" />
