@@ -125,6 +125,10 @@
     <ClCompile Include="UsingDcl2.cpp" />
     <ClCompile Include="ver7_Account.cpp" />
     <ClCompile Include="ver7_AccountHandler.cpp" />
+    <ClCompile Include="ver8_Account.cpp" />
+    <ClCompile Include="ver8_AccountArray.cpp" />
+    <ClCompile Include="ver8_AccountHandler.cpp" />
+    <ClCompile Include="ver8_BankingSystemMain.cpp" />
     <ClCompile Include="VirtualDestructor.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -136,6 +140,12 @@
     <ClInclude Include="ver7_BankingCommonDecl.h" />
     <ClInclude Include="ver7_HighCreditAccount.h" />
     <ClInclude Include="ver7_NormalAccount.h" />
+    <ClInclude Include="ver8_Account.h" />
+    <ClInclude Include="ver8_AccountArray.h" />
+    <ClInclude Include="ver8_AccountHandler.h" />
+    <ClInclude Include="ver8_BankingCommonDecl.h" />
+    <ClInclude Include="ver8_HighCreditAccount.h" />
+    <ClInclude Include="ver8_NormalAccount.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

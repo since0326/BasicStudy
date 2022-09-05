@@ -61,6 +61,12 @@
     <Filter Include="헤더 파일\OOP_Ver_7_Header">
       <UniqueIdentifier>{d9a40760-6f3b-4ad3-a200-7ede63da3388}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\OOP\OOP_Ver_8">
+      <UniqueIdentifier>{3b8bed6f-3b26-418e-8436-5edbfa014f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\OOP_Ver_8_Header">
+      <UniqueIdentifier>{7514ac7c-1ccb-4460-a264-9a9a7efe53c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -384,6 +390,18 @@
     <ClCompile Include="ver7_Account.cpp">
       <Filter>소스 파일\OOP\OOP_Ver_7</Filter>
     </ClCompile>
+    <ClCompile Include="ver8_BankingSystemMain.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_8</Filter>
+    </ClCompile>
+    <ClCompile Include="ver8_AccountHandler.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_8</Filter>
+    </ClCompile>
+    <ClCompile Include="ver8_AccountArray.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_8</Filter>
+    </ClCompile>
+    <ClCompile Include="ver8_Account.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
@@ -409,6 +427,24 @@
     </ClInclude>
     <ClInclude Include="ver7_AccountHandler.h">
       <Filter>헤더 파일\OOP_Ver_7_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver8_NormalAccount.h">
+      <Filter>헤더 파일\OOP_Ver_8_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver8_HighCreditAccount.h">
+      <Filter>헤더 파일\OOP_Ver_8_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver8_BankingCommonDecl.h">
+      <Filter>헤더 파일\OOP_Ver_8_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver8_AccountHandler.h">
+      <Filter>헤더 파일\OOP_Ver_8_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver8_AccountArray.h">
+      <Filter>헤더 파일\OOP_Ver_8_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver8_Account.h">
+      <Filter>헤더 파일\OOP_Ver_8_Header</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
