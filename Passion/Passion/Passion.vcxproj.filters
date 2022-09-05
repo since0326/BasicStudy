@@ -55,6 +55,12 @@
     <Filter Include="소스 파일\Day11">
       <UniqueIdentifier>{985f6dfe-eeef-4533-9396-3e483ebf3fc2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\OOP\OOP_Ver_7">
+      <UniqueIdentifier>{0065f10a-5c10-440c-9623-108b245f1d4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\OOP_Ver_7_Header">
+      <UniqueIdentifier>{d9a40760-6f3b-4ad3-a200-7ede63da3388}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -372,6 +378,12 @@
     <ClCompile Include="FirstOperationOverloading1.cpp">
       <Filter>소스 파일\Day11</Filter>
     </ClCompile>
+    <ClCompile Include="ver7_AccountHandler.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_7</Filter>
+    </ClCompile>
+    <ClCompile Include="ver7_Account.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
@@ -385,6 +397,18 @@
     </ClInclude>
     <ClInclude Include="Rectangle1.h">
       <Filter>헤더 파일\Day5Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver7_NormalAccount.h">
+      <Filter>헤더 파일\OOP_Ver_7_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver7_HighCreditAccount.h">
+      <Filter>헤더 파일\OOP_Ver_7_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver7_BankingCommonDecl.h">
+      <Filter>헤더 파일\OOP_Ver_7_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver7_AccountHandler.h">
+      <Filter>헤더 파일\OOP_Ver_7_Header</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
