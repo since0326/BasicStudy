@@ -73,6 +73,12 @@
     <Filter Include="헤더 파일\OOP_Ver_9_Header">
       <UniqueIdentifier>{a89d6b0a-9f6b-4946-ba89-29a4bb4b6fac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\OOP\OOP_Ver_10">
+      <UniqueIdentifier>{8062ac32-63e5-404a-a88f-d58b95ae1836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\OOP_Ver_10_Header">
+      <UniqueIdentifier>{9bbca1d9-70df-4f3e-ab01-8874a98247c7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -423,6 +429,21 @@
     <ClCompile Include="ver9_Account.cpp">
       <Filter>소스 파일\OOP\OOP_Ver_9</Filter>
     </ClCompile>
+    <ClCompile Include="ver10_String.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_10</Filter>
+    </ClCompile>
+    <ClCompile Include="ver10_BankingSystemMain.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_10</Filter>
+    </ClCompile>
+    <ClCompile Include="ver10_AccountHandler.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_10</Filter>
+    </ClCompile>
+    <ClCompile Include="ver10_AccountArray.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_10</Filter>
+    </ClCompile>
+    <ClCompile Include="ver10_Account.cpp">
+      <Filter>소스 파일\OOP\OOP_Ver_10</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h">
@@ -487,6 +508,27 @@
     </ClInclude>
     <ClInclude Include="ver9_Account.h">
       <Filter>헤더 파일\OOP_Ver_9_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_String.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_NormalAccount.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_HighCreditAccount.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_BankingCommonDecl.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_AccountHandler.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_AcountArray.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ver10_Account.h">
+      <Filter>헤더 파일\OOP_Ver_10_Header</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
