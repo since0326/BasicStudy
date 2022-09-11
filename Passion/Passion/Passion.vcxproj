@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AddFunctionTemplate.cpp" />
     <ClCompile Include="ArrayClass.cpp" />
     <ClCompile Include="AssignShallowCopyError.cpp" />
     <ClCompile Include="BetweenAdder.cpp" />
@@ -69,6 +70,7 @@
     <ClCompile Include="NameSp1.cpp" />
     <ClCompile Include="NameSp2.cpp" />
     <ClCompile Include="NameSp3.cpp" />
+    <ClCompile Include="NeedSpecialFunctionTemplate.cpp" />
     <ClCompile Include="ObjArr.cpp" />
     <ClCompile Include="ObjectPointer.cpp" />
     <ClCompile Include="ObjPtrArr.cpp" />
@@ -76,10 +78,13 @@
     <ClCompile Include="PassObjCopycon.cpp" />
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Point1.cpp" />
+    <ClCompile Include="PointClassTemplate.cpp" />
+    <ClCompile Include="PointClassTemplateFuncDef.cpp" />
     <ClCompile Include="PointConsoleOutput.cpp" />
     <ClCompile Include="PointerOperatorOverloading.cpp" />
     <ClCompile Include="PointMultipleOperation.cpp" />
     <ClCompile Include="PostOpndOverloading.cpp" />
+    <ClCompile Include="PrimitiveFunctionTemplate.cpp" />
     <ClCompile Include="PrivateConstructor.cpp" />
     <ClCompile Include="ProtectedHeri.cpp" />
     <ClCompile Include="PublicStaticMember.cpp" />
@@ -89,6 +94,7 @@
     <ClCompile Include="Q10-2.cpp" />
     <ClCompile Include="Q10-3.cpp" />
     <ClCompile Include="Q11-1.cpp" />
+    <ClCompile Include="Q13-1.cpp" />
     <ClCompile Include="Q2-1.cpp" />
     <ClCompile Include="Q4-2.cpp" />
     <ClCompile Include="Q4-3.cpp" />
@@ -112,6 +118,7 @@
     <ClCompile Include="RefSwap.cpp" />
     <ClCompile Include="ShallowCopyError.cpp" />
     <ClCompile Include="SimpleAdder.cpp" />
+    <ClCompile Include="SpecialFunctionTemplate.cpp" />
     <ClCompile Include="StableConstArrayProb.cpp" />
     <ClCompile Include="StableConstArraySolu.cpp" />
     <ClCompile Include="StablePointObjArray.cpp" />
@@ -119,6 +126,7 @@
     <ClCompile Include="StaticMember.cpp" />
     <ClCompile Include="StringIO.cpp" />
     <ClCompile Include="TrueAndFalse.cpp" />
+    <ClCompile Include="TwoTypeAddFunction.cpp" />
     <ClCompile Include="UnivStudntInheri.cpp" />
     <ClCompile Include="UsefulThisPtr.cpp" />
     <ClCompile Include="UsingDcl1.cpp" />

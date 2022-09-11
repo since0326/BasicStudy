@@ -79,6 +79,9 @@
     <Filter Include="헤더 파일\OOP_Ver_10_Header">
       <UniqueIdentifier>{9bbca1d9-70df-4f3e-ab01-8874a98247c7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day15">
+      <UniqueIdentifier>{7beb000e-cf3f-4d73-b0bb-d80e32fc82f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -443,6 +446,30 @@
     </ClCompile>
     <ClCompile Include="ver10_Account.cpp">
       <Filter>소스 파일\OOP\OOP_Ver_10</Filter>
+    </ClCompile>
+    <ClCompile Include="PointClassTemplateFuncDef.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="PointClassTemplate.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialFunctionTemplate.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="NeedSpecialFunctionTemplate.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="Q13-1.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimitiveFunctionTemplate.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoTypeAddFunction.cpp">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="AddFunctionTemplate.cpp">
+      <Filter>소스 파일\Day15</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
