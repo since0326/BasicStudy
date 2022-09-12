@@ -82,6 +82,9 @@
     <Filter Include="소스 파일\Day15">
       <UniqueIdentifier>{7beb000e-cf3f-4d73-b0bb-d80e32fc82f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day16">
+      <UniqueIdentifier>{21e6be56-2171-41e9-ad94-26bacb555162}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BetweenAdder.cpp">
@@ -470,6 +473,33 @@
     </ClCompile>
     <ClCompile Include="AddFunctionTemplate.cpp">
       <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="Deque.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicCasting.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerfullCasting.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="ReinterpretCasting.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="Set.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticCasting.cpp">
+      <Filter>소스 파일\Day16</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec.cpp">
+      <Filter>소스 파일\Day16</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
